@@ -7,3 +7,10 @@
   💡 What excites me most is that every line of code can transform an idea into reality.<br>
   🔥 My goal is to build projects that are not only beautiful and fast but also inspire trust and deliver memorable user experiences.
 </div>
+
+<br>
+
+<h2>🛠️ Languages & Tools I Work With:</h2>
+<div>
+  HTML • CSS • Bootstrap • JavaScript • EcmaScript6 • React • Redux • GraphQL
+</div>
