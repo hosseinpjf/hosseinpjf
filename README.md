@@ -1,24 +1,9 @@
-<h2 align="center">Hi there👋</h2>
+<h1 align="center">Hi there👋</h1>
 
-<!--
-**hosseinpjf/hosseinpjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+<h2>👨‍💻 About Me</h2>
 <div>
-  <h2>👨‍💻 About Me</h2>
-  <p>I’m Hossein Pourjafarabadi — a frontend developer passionate about turning bold ideas into seamless digital realities.</p>
-  <p>I love crafting <strong>pixel‑perfect 🎨 user interfaces</strong>, where every detail truly matters, and building interactions that feel <strong>natural, smooth, and delightful ✨.</strong></p>
-  <p>💡 What excites me most is that every line of code can transform an idea into reality.</p>
-  <p>🔥 My goal is to build projects that are not only beautiful and fast but also inspire trust and deliver memorable user experiences.</p>
+  I’m Hossein Pourjafarabadi — a frontend developer passionate about turning bold ideas into seamless digital realities.<br>
+  I love crafting <strong>pixel‑perfect 🎨 user interfaces</strong>, where every detail truly matters, and building interactions that feel <strong>natural, smooth, and delightful ✨.</strong><br>
+  💡 What excites me most is that every line of code can transform an idea into reality.<br>
+  🔥 My goal is to build projects that are not only beautiful and fast but also inspire trust and deliver memorable user experiences.
 </div>
