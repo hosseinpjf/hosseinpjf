@@ -12,5 +12,5 @@
 
 <h2>🛠️ Languages & Tools I Work With:</h2>
 <div>
-  HTML • CSS • Bootstrap • JavaScript • EcmaScript6 • React • Redux • GraphQL
+  HTML • CSS • Bootstrap • JavaScript • React • Redux • GraphQL • Python • SQLAlchemy • FastAPI
 </div>
